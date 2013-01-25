@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "cheddargetter_client"
   gem.homepage = "http://github.com/BrentW/cheddargetter_client"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A ruby wrapper for the Cheddargetter API}
+  gem.description = %Q{A more flexible solution for accessing the Cheddargetter API}
   gem.email = "brent.wooden@gmail.com"
   gem.authors = ["Brent Wooden"]
   # dependencies defined in Gemfile
