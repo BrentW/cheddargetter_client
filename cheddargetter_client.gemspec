@@ -27,7 +27,6 @@ Gem::Specification.new do |s|
     "lib/cheddargetter/client.rb",
     "lib/cheddargetter/response.rb",
     "lib/cheddargetter_client.rb",
-    "pkg/cheddargetter_client-0.0.0.gem",
     "spec/cheddar_getter_client_spec.rb",
     "spec/spec_helper.rb"
   ]
